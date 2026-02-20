@@ -19,10 +19,16 @@
 PlacementIQ is an AI-inspired, browser-based career readiness assessment platform that evaluates students across domain knowledge, quantitative aptitude, academic performance, and experience — delivering an instant, personalized placement readiness report. Built as a zero-dependency single-file web app, it features a multi-step onboarding flow, 45+ curated questions across Technical, Core Engineering, and Management tracks, a live-timed assessment engine, and actionable score-driven recommendations. Designed to bridge the gap between academic preparation and industry expectations, PlacementIQ empowers students to identify their strengths, address skill gaps, and walk into placements with confidence.
 
 ### The Problem statement
-[What problem are you solving?]
+Every year, thousands of students enter campus placement season underprepared — not because they lack potential, but because they have no clear, objective measure of where they actually stand. Most students rely on gut feeling or peer comparison to gauge their readiness, often discovering critical skill gaps only after failing interviews. Existing solutions are either too generic, paywalled, or require institutional access, leaving the majority of students without a reliable self-assessment tool. There is no unified, accessible platform that evaluates a student's domain knowledge, aptitude, academic profile, and experience together — and translates that into honest, actionable feedback before it's too late.
 
 ### The Solution
-[How are you solving it?]
+**The Solution**
+
+PlacementIQ gives students instant, objective clarity on their placement readiness through a structured assessment covering domain knowledge, aptitude, academics, and experience — delivering a scored report with a clear readiness tier and actionable recommendations, completely free and browser-based.
+
+It also connects colleges and recruiters into the loop. Placement cells get batch-wide analytics to intervene early, while recruiters get a lightweight pre-screening signal to surface prepared candidates faster.
+
+**Students get direction. Colleges get intelligence. Recruiters get better talent.**
 
 ---
 
