@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# PLACEMENTIQ 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: TIRAMISU
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: DEVIPRIYA P - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
+- Member 2: KALYANI M G - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
 
 ### Hosted Project Link
 [mention your project hosted link here]
