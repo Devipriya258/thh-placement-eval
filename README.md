@@ -88,10 +88,17 @@ Open placement_assessment.html in any modern web browser.
 
 #### Screenshots (Add at least 3)
 
-screenshot1.png
-screenshot2.png
-screenshot3.png
-screenshot5.png
+### 1️⃣ Screenshot 1
+![Screenshot 1](screenshot1.png)
+
+### 2️⃣ Screenshot 2
+![Screenshot 2](screenshot2.png)
+
+### 3️⃣ Screenshot 3
+![Screenshot 3](screenshot3.png)
+
+### 4️⃣ Screenshot 5
+![Screenshot 5](screenshot5.png)
 
 #### Diagrams
 
