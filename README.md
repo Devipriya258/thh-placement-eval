@@ -119,9 +119,7 @@ The user begins by entering their academic profile, which is validated before pr
 
 
 
-#### Team Photos
 
-![Team](groupphoto.jpeg)
 
 
 ### final screenshot
