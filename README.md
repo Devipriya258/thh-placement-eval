@@ -87,18 +87,29 @@ Open placement_assessment.html in any modern web browser.
 ### For Software:
 
 #### Screenshots (Add at least 3)
+## 📸 Screenshots
 
-### 1️⃣ Screenshot 1
-![Screenshot 1](screenshot1.png)
+### 1️⃣ screenshot1.png – Home Page
+![screenshot1](screenshot1.png)
+**Description:** This is the home page of the PlacementIQ application showing the main dashboard and navigation menu.
 
-### 2️⃣ Screenshot 2
-![Screenshot 2](screenshot2.png)
+---
 
-### 3️⃣ Screenshot 3
-![Screenshot 3](screenshot3.png)
+### 2️⃣ screenshot2.png – Student Dashboard
+![screenshot2](screenshot2.png)
+**Description:** Displays student details, placement status, and available job opportunities.
 
-### 4️⃣ Screenshot 5
-![Screenshot 5](screenshot5.png)
+---
+
+### 3️⃣ screenshot3.png – Company Listings
+![screenshot3](screenshot3.png)
+**Description:** Shows the list of companies participating in placements along with eligibility criteria.
+
+---
+
+### 4️⃣ screenshot5.png – Admin Panel
+![screenshot5](screenshot5.png)
+**Description:** Admin interface for managing students, companies, and placement records.
 
 #### Diagrams
 
