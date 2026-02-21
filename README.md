@@ -121,7 +121,7 @@ The user begins by entering their academic profile, which is validated before pr
 
 #### Build Photos
 
-![Team](Add photo of your team here)
+![Team](groupphoto.jpeg)
 
 ![Components](Add photo of your components here)
 *List out all components shown*
