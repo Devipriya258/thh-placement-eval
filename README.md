@@ -13,7 +13,7 @@
 - Member 2: KALYANI M G - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://devipriya258.github.io/thh-placement-eval/
 
 ### Project Description
 PlacementIQ is an AI-inspired, browser-based career readiness assessment platform that evaluates students across domain knowledge, quantitative aptitude, academic performance, and experience — delivering an instant, personalized placement readiness report. Built as a zero-dependency single-file web app, it features a multi-step onboarding flow, 45+ curated questions across Technical, Core Engineering, and Management tracks, a live-timed assessment engine, and actionable score-driven recommendations. Designed to bridge the gap between academic preparation and industry expectations, PlacementIQ empowers students to identify their strengths, address skill gaps, and walk into placements with confidence.
