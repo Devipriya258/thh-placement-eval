@@ -112,13 +112,13 @@ Open placement_assessment.html in any modern web browser.
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+![Architecture Diagram](placementiq_architecture.png)
+*PlacementIQ is a zero-dependency, single-file web app where all logic runs entirely in the browser. A central JavaScript state object manages data across all five views — Landing, Details Form, Career Selection, Assessment, and Results. The scoring engine combines domain accuracy, aptitude, CGPA, and experience into a weighted readiness score, rendered instantly with no server calls required.*
 
 **Application Workflow:**
 
 ![Workflow](placementiq_flowchart.png)
-*Add caption explaining your workflow*
+The user begins by entering their academic profile, which is validated before proceeding. They then select a career domain — Technical, Core Engineering, or Management — which filters and shuffles the question bank. A 15-minute timed assessment follows, after which the scoring engine processes all inputs and delivers a personalized readiness report with actionable recommendations.
 
 ---
 
