@@ -119,7 +119,7 @@ Open placement_assessment.html in any modern web browser.
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
+![Workflow](placementiq_flowchart.png)
 *Add caption explaining your workflow*
 
 ---
