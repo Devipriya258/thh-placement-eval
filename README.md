@@ -84,8 +84,6 @@ Open placement_assessment.html in any modern web browser.
 ## Project Documentation
 
 ### For Software:
-
-#### Screenshots (Add at least 3)
 ## 📸 Screenshots
 
 ### 1️⃣ screenshot1.png – Home Page
