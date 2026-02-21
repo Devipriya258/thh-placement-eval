@@ -138,8 +138,15 @@ At the bottom, three quick stats highlight the assessment scope: 45+ questions, 
 ### Video
 [video link](mainvideo.mp4)
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+**Execution Overview**
 
+PlacementIQ is built as a **zero-dependency, single-file web application** — no frameworks, no backend, no installation required. It runs entirely in the browser using vanilla HTML, CSS, and JavaScript.
+
+The app follows a **multi-step onboarding flow** that collects student details including academic performance, domain, and experience before routing them into the appropriate assessment track. The assessment engine dynamically loads 45+ curated questions based on the selected track — Technical, Core Engineering, or Management — with a **live countdown timer** managing the session in real time.
+
+Once completed, the scoring engine processes responses across five skill dimensions — Technical, Aptitude, Domain, Problem Solving, and Communication — and computes a weighted **Overall Readiness Score**. The results page renders an instant, personalized report complete with a visual skills profile, percentage breakdowns, and **score-driven recommendations** that highlight strengths and flag areas for improvement.
+
+The entire experience is designed to be **lightweight, fast, and accessible** — deployable as a single `.html` file with no server, no database, and no sign-up required, making it instantly shareable and easy to run on any device with a modern browser.
 
 
 ---
