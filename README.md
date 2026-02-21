@@ -123,11 +123,7 @@ The user begins by entering their academic profile, which is validated before pr
 
 ![Team](groupphoto.jpeg)
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
 ![Final](screenshot1.png)
 The image shows a PlacementIQ landing page — a dark-themed, AI-powered skill assessment platform. The hero section features bold typography with the headline "Know Your Placement Readiness", where "Placement" is highlighted in gold/yellow.
