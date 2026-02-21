@@ -140,7 +140,7 @@ At the bottom, three quick stats highlight the assessment scope: 45+ questions, 
 ## Project Demo
 
 ### Video
-vidPlacementIQ — Career Readiness Assessment - Google Chrome 2026-02-21 08-59-12 (1) (1).mp4
+[video link](mainvideo.mp4)
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
