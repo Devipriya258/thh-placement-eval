@@ -22,8 +22,6 @@ PlacementIQ is an AI-inspired, browser-based career readiness assessment platfor
 Every year, thousands of students enter campus placement season underprepared — not because they lack potential, but because they have no clear, objective measure of where they actually stand. Most students rely on gut feeling or peer comparison to gauge their readiness, often discovering critical skill gaps only after failing interviews. Existing solutions are either too generic, paywalled, or require institutional access, leaving the majority of students without a reliable self-assessment tool. There is no unified, accessible platform that evaluates a student's domain knowledge, aptitude, academic profile, and experience together — and translates that into honest, actionable feedback before it's too late.
 
 ### The Solution
-**The Solution**
-
 PlacementIQ gives students instant, objective clarity on their placement readiness through a structured assessment covering domain knowledge, aptitude, academics, and experience — delivering a scored report with a clear readiness tier and actionable recommendations, completely free and browser-based.
 
 It also connects colleges and recruiters into the loop. Placement cells get batch-wide analytics to intervene early, while recruiters get a lightweight pre-screening signal to surface prepared candidates faster.
@@ -37,30 +35,31 @@ It also connects colleges and recruiters into the loop. Placement cells get batc
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: HTML,CSS,JAVASCRIPT
+- Frameworks used: NONE
+- Libraries used: Google Fonts (Playfair Display, DM Mono, Nunito) for typography
+- Tools used:  VS Code, Git,Chatgpt
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components:Any device with a modern web browser (desktop, tablet, or mobile)
+- Specifications: No minimum hardware requirements — lightweight single-file app with no backend, no database, and no installation
+
+- Tools required:A browser (Chrome, Firefox, Edge, Safari)
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Domain-Specific Assessment: Students choose from Technical, Core Engineering, or Management tracks — each with a curated question bank of 15+ domain questions and 10 aptitude questions, randomly shuffled every attempt to ensure a fresh experience.
+- Feature 2: Smart Scoring Engine: Results are computed across four parameters — domain accuracy, aptitude performance, CGPA, and work experience — producing a weighted readiness score, a clear tier (Placement Ready / Developing / Needs Work), and personalized improvement recommendations.
+- Feature 3: Live Timed Assessment: A 15-minute countdown with a visual ring timer, question navigation palette, answered/unanswered tracking, and a confirmation-gated exit button — replicating the pressure and structure of a real placement test.
+- Feature 4: College-Student-Recruiter Ecosystem: Designed to scale beyond individual use — placement cells can track batch-wide readiness and intervene early, while recruiters can use scores as a pre-screening signal to identify job-ready candidates faster.
 
 ---
 
 ## Implementation
-
+No installation required.
 ### For Software:
 
 #### Installation
@@ -70,7 +69,7 @@ List the key features of your project:
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+Open placement_assessment.html in any modern web browser.
 ```
 
 ### For Hardware:
