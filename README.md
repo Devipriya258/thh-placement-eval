@@ -144,8 +144,7 @@ At the bottom, three quick stats highlight the assessment scope: 45+ questions, 
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+
 
 ---
 
