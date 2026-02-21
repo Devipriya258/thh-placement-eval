@@ -125,7 +125,7 @@ The user begins by entering their academic profile, which is validated before pr
 
 
 
-![Final](screenshot1.png)
+Final screenshot
 The image shows a PlacementIQ landing page — a dark-themed, AI-powered skill assessment platform. The hero section features bold typography with the headline "Know Your Placement Readiness", where "Placement" is highlighted in gold/yellow.
 On the right side, there's a Sample Skills Profile card displaying a breakdown of scores across five categories — Technical (78%), Aptitude (65%), Domain (82%), Problem Solving (55%), and Communication (70%) — shown as gradient progress bars, with an Overall Readiness score of 72%.
 At the bottom, three quick stats highlight the assessment scope: 45+ questions, 3 domains, and ~15 minutes to complete. The overall design is clean, minimal, and professional with a black background, gold accents, and teal/green gradient bar elements.
